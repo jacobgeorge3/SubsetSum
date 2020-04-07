@@ -1,0 +1,4 @@
+I ended up only using the solution given in the slides. However, I worked for hours trying to find a better or even different recursive algorithm. 
+When I failed to do this, I tried to brute force it. However, I did not leave myself enough time fully flush out a brute force idea
+and had to fall back on the given solution. I don't want to appear as if I simply gave up or took the easy way out on this assignment.
+I will be attending office hours to ask questions about this problem. Thank you for your time.
